@@ -28,3 +28,4 @@ function draw() {
   y += random(-1, 1);
   
 }
+
